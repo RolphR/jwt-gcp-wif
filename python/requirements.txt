@@ -1,0 +1,11 @@
+## The following requirements were added by pip freeze:
+certifi==2024.8.30
+cffi==1.17.1
+charset-normalizer==3.4.0
+cryptography==44.0.0
+idna==3.10
+jwcrypto==1.5.6
+pycparser==2.22
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.2.3
